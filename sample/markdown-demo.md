@@ -59,10 +59,10 @@ This is a link to [README.md](README.md)
 ### Images
 
 ```
-![Markdown demo screenshot](Images/markdown-demo.png)
+![Markdown demo screenshot](images/markdown-demo.png)
 ```
 
-![Markdown demo screenshot](Images/markdown-demo.png)
+![Markdown demo screenshot](images/markdown-demo.png)
 
 ## Code
 
