@@ -1,0 +1,17 @@
+name mason moore
+email moore.986@wright.edu
+part 1
+mkdir dirA
+mkdir 'dir b'
+cd 'dir B'
+dirA has a better naming because it is easier to access
+mv 'dir B' dirB
+
+vim test.txt
+i(insert mode)
+line 1 
+line2
+line 3
+:wq (save and quit)
+cp test.txt .hiddentest.txt
+ls -a
